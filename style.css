@@ -1,0 +1,17 @@
+body{
+    background: #404040;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    flex-direction: column;
+}
+canvas
+{
+    border: 3px solid black;
+    background-color: #fff;
+}
+#score{
+    color: rgba(255, 0, 0, 0.600);
+}
